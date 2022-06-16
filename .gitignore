@@ -1,6 +1,7 @@
 */venv/
-*/.idea/
+/.idea/
 .env
 /test.py
-
+geckodriver.*
 *.log
+*.pyc
